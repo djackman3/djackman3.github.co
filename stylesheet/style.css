@@ -1,0 +1,18 @@
+
+	h3 {
+		color: red;
+
+
+	}
+	body {
+		font-family: Verdana, Arial, sans-serif, Helvetica;
+		font-size: 14px;
+		font-weight: normal;
+		position: relative;
+
+	}
+	footer {
+		background-color: #F80;
+		margin-bottom: 1%;
+		color: white;
+	}
